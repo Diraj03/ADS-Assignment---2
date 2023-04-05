@@ -14,7 +14,6 @@ from scipy.stats import kurtosis
 
 
 
-
 def data(x):
     """
     This function takes a pandas DataFrame `a` and performs several statistical calculations on the columns.
