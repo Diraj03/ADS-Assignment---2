@@ -1,9 +1,10 @@
 """
 This code plots different visualisations methods that is bar plot plot, line plot 
 and heat map using single dataset based on multiple index.
+
 """
 
-# importing requiredpackages
+# importing required packages
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
